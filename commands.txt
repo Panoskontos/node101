@@ -23,3 +23,7 @@ node
 Run server
 
 1. Install express
+2. Set up your server with few commands
+
+for more visit https://expressjs.com/
+where you can find anything
