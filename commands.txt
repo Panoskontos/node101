@@ -18,3 +18,8 @@ node file.js
 
 Run node (similar to python)
 node
+
+
+Run server
+
+1. Install express
