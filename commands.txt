@@ -1,0 +1,20 @@
+
+New npm package.json
+
+npm init
+
+
+ If we use the --save option after installing the package,
+  it will be saved in package.json inside dependencies.
+
+npm i --save jquery
+
+
+
+Run javascript file
+
+node file.js
+
+
+Run node (similar to python)
+node
