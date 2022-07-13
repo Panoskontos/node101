@@ -14,3 +14,6 @@ console.log(a)
 var variables = require('./vars')
 console.log(variables)
 console.log(variables.name)
+
+// importing function
+variables.printName()
